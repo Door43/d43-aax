@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aax:home|Door43 (aax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aax|d43-aax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aax/archive/master.zip|d43-aax.zip]]
+
+**Recent Changes**
+{{changes>ns = aax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aax|Ethnologue data]]
+
